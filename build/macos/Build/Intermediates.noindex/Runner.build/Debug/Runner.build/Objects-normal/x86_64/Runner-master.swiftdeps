@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1691974721, 553113937]
+build_end_time: [1691974722, 493090152]
+inputs:
+  "/Users/eduardoguesdecerqueira/projetos/dysplassistapp/dysplassist/macos/Flutter/GeneratedPluginRegistrant.swift": [1691974706, 784194946]
+  "/Users/eduardoguesdecerqueira/projetos/dysplassistapp/dysplassist/macos/Runner/AppDelegate.swift": [1672077575, 70726394]
+  "/Users/eduardoguesdecerqueira/projetos/dysplassistapp/dysplassist/macos/Runner/MainFlutterWindow.swift": [1685577430, 322238683]
